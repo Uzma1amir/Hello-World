@@ -1,4 +1,4 @@
 # Hello-World
 Hello Uzma!
 
-I klike to talk.
+I like to talk.
